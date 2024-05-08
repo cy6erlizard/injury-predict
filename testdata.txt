@@ -1,0 +1,10 @@
+[
+    {
+        "poste": "Attaquant",
+        "age": 25
+    },
+    {
+        "poste": "Milieu de terrain",
+        "age": 26
+    }
+]
